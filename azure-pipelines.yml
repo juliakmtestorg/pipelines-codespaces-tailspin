@@ -2,8 +2,7 @@ trigger:
 - '*'
 
 pool:
-  name: 'codespaces-pool-demogit add azure-pipelines.yml
-'
+  name: 'codespaces-pool-demo'
 
 steps:
 - task: UseDotNet@2
